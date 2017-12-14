@@ -1,0 +1,25 @@
+{
+  "name": "mocha-blanket",
+  "version": "1.0.0",
+  "description": "Adapter to use blanket with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusHV/mocha-blanket.git"
+  },
+  "keywords": [
+    "blanket",
+    "mocha",
+    "mocha-blanket",
+    "reporter"
+  ],
+  "author": "Jesus Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusHV/mocha-blanket/issues"
+  },
+  "homepage": "https://github.com/JesusHV/mocha-blanket#readme"
+}
